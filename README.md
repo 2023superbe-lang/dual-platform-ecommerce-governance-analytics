@@ -5,14 +5,23 @@ This enterprise-grade business intelligence solution provides senior management 
 
 Organizations face a constant balancing act between maximizing transactional throughput and mitigating risk[cite: 1]. This project establishes a streamlined, interactive framework to monitor macro-level revenue health while enabling operational teams to perform surgical drill-downs into risk vectors across distinct technical channels[cite: 1].
 
-## 🌐 Live Interactive Dashboard
-> 💡 **Tip:** Interactively filter the charts below by clicking directly on any country bar, product category, or donut slice to dive deeper into the behavioral risk profiles.
+## 🖼️ Visual System Interfaces
 
-<!-- PASTE YOUR POWER BI IFRAME EMBED CODE DIRECTLY BELOW THIS LINE -->
-*(Interactive Power BI Dashboard Embed Placeholder)*
-<!-- PASTE YOUR POWER BI IFRAME EMBED CODE DIRECTLY ABOVE THIS LINE -->
+### Tier 1: Strategic Revenue & Governance Overview
+#### Tableau Implementation:
+![Tableau Strategic Page](documentation_images/tableau_strategic_overview.png)
+
+#### Power BI Production Migration:
+![Power BI Strategic Page](documentation_images/powerbi_strategic_overview.png)
 
 ---
+
+### Tier 2: Operational Device Traffic & Behavioral Risk Analysis
+#### Tableau Implementation:
+![Tableau Operational Page](documentation_images/tableau_behavioral_analysis.png)
+
+#### Power BI Production Migration:
+![Power BI Operational Page](documentation_images/powerbi_behavioral_analysis.png)
 
 ## 🛠️ System Architecture & Visual Design Framework
 The portfolio is intentionally structured into a **Two-Tier Analytical Funnel** across the industry's leading BI applications (**Tableau** and **Power BI**)[cite: 1]. This ensures platform agility and provides immediate "Time-to-Insight" for diverse corporate audiences[cite: 1].
