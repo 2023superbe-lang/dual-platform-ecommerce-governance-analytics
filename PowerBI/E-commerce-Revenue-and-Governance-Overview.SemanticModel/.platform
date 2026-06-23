@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "E-commerce-Revenue-and-Governance-Overview"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "6a0ebdab-8136-4ee3-9adc-70f191ef8d0a"
+  }
+}
